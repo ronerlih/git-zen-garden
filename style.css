@@ -1,0 +1,18 @@
+body {
+   margin: 0;
+   text-align: center;
+}
+
+footer {
+   background-color: black;
+}
+.header-img {
+   width: 100%;
+}
+.feature {
+   margin: 30px;
+   border: 1px solid;
+   min-height: 60px;
+   padding:10px;
+   box-shadow: 0 0 5px 10px rgba(242, 242, 242, 0.653);
+}
